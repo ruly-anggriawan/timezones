@@ -11,7 +11,6 @@
             "homepage" : "http://hobbycoding.web.id"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Rulyanggriawan\\timezones\\": "src" 
