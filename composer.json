@@ -1,0 +1,13 @@
+{
+    "name": "rulyanggriawan/timezones",
+    "description": "demo-package to show time",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ruly anggriawan",
+            "email": "rulyanggriawanilkom@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
