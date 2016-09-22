@@ -1,13 +1,20 @@
 {
     "name": "rulyanggriawan/timezones",
+    "type": "library",
     "description": "demo-package to show time",
     "require": {},
     "license": "MIT",
     "authors": [
         {
             "name": "ruly anggriawan",
-            "email": "rulyanggriawanilkom@gmail.com"
+            "email": "rulyanggriawanilkom@gmail.com",
+            "homepage" : "http://hobbycoding.web.id"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Rulyanggriawan\\timezones\\": "src" 
+        }
+    }
 }
